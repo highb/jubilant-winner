@@ -1,0 +1,3 @@
+# Module from my Git repository.
+mod 'highb/pupperbox', git: 'git@github.com:highb/pupperbox.git', ref: 'master'
+

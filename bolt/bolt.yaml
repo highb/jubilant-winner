@@ -1,4 +1,4 @@
-modulepath: "./bolt/modules"
+modulepath: "./modules"
 format: human
 ssh:
   host-key-check: true
