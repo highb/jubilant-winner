@@ -1,2 +1,3 @@
 # jubilant-winner
-Puppet Tasks for automating the setup of various prototypical boxen I need
+
+Uses [pupperbox](https://github.com/highb/pupperbox) to setup dev boxen for me. Might use other tools, eventually.

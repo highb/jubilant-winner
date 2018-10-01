@@ -11,6 +11,6 @@ mod 'puppetlabs-reboot', '2.0.0'
 
 
 # Module from my Git repository.
-mod 'highb/pupperbox', git: 'git@github.com:highb/pupperbox.git', ref: 'master'
+#mod 'highb/pupperbox', git: 'git@github.com:highb/pupperbox.git', ref: 'master'
 # For local development
-#mod 'highb/pupperbox', local: true
+mod 'highb/pupperbox', local: true
