@@ -1,9 +1,9 @@
 modulepath: "./modules"
 format: human
 ssh:
-  host-key-check: true
   private-key: ~/.ssh/id_rsa
   # Required if non-root login
   run-as: root
+  host-key-check: false
   # Require if sudo is needed
   tty: true
