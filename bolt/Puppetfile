@@ -8,9 +8,12 @@ mod 'puppetlabs-apt', '6.1.0'
 mod 'puppetlabs-translate', '1.2.0'
 mod 'puppetlabs-powershell', '2.1.5'
 mod 'puppetlabs-reboot', '2.0.0'
+mod 'jdowning-rbenv', '2.4.0'
+mod 'Siebjee-python', '0.2.0'
+mod 'saz-sudo', '5.0.0'
 
 
 # Module from my Git repository.
-#mod 'highb/pupperbox', git: 'git@github.com:highb/pupperbox.git', ref: 'master'
+mod 'highb/pupperbox', git: 'git@github.com:highb/pupperbox.git', ref: 'master'
 # For local development
-mod 'highb/pupperbox', local: true
+#mod 'highb/pupperbox', local: true
