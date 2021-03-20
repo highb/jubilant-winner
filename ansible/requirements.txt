@@ -123,7 +123,7 @@ humanfriendly==4.12
 idna==2.6
 ipaddress==1.0.22
 isodate==0.6.0
-Jinja2==2.10
+Jinja2==2.11.3
 jira==1.0.10
 jmespath==0.9.3
 knack==0.3.2
