@@ -4,7 +4,7 @@ ansible==2.6.5
 applicationinsights==0.11.2
 argcomplete==1.9.4
 asn1crypto==0.24.0
-autobahn==0.5.14
+autobahn==20.12.3
 azure-batch==4.1.1
 azure-batch-extensions==1.0.1
 azure-cli==2.0.31
