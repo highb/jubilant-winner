@@ -2,8 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     CFPropertyList (2.3.6)
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     bolt (0.21.7)
       CFPropertyList (~> 2.2)
       addressable (~> 2.5)
@@ -58,7 +58,7 @@ GEM
     net-ssh (4.2.0)
     nori (2.6.0)
     orchestrator_client (0.3.1)
-    public_suffix (3.0.3)
+    public_suffix (4.0.6)
     puppet_forge (2.2.9)
       faraday (>= 0.9.0, < 0.14.0)
       faraday_middleware (>= 0.9.0, < 0.13.0)
